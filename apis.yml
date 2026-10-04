@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mantas-insurance-solutions-inc.png
-name: MANTAS INSURANCE SOLUTIONS, INC.
+name: MANTAS INSURANCE SOLUTIONS
 description: MANTAS INSURANCE SOLUTIONS, INC. is a company surfaced as a portfolio company of 500-global
   and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
   enrichment pipeline.
@@ -47,3 +47,4 @@ maintainers:
 common:
 - type: Website
   url: https://mantas.ai
+x-legal-name: MANTAS INSURANCE SOLUTIONS, INC.
